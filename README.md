@@ -116,7 +116,7 @@ git add .
 git commit -m "Complete submission for cybersecurity internship task 1"
 
 # Connect to GitHub (replace with YOUR repo URL)
-git remote add origin https://github.com/YOUR_USERNAME/cybersecurity-internship-task1.git
+git remote add origin https://github.com/Azim-sa/cybersecurity-internship-task1.git
 
 # Push
 git branch -M main
